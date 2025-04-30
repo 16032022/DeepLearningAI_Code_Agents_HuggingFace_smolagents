@@ -28,3 +28,4 @@ How to build a research multi-agent system that can find information online and 
 
 - Inroduction code agents 🌐
 - Secure Code Execution 🔒
+- Monitoring and Evaluating your Agent
