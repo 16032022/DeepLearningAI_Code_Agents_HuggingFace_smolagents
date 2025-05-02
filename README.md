@@ -8,12 +8,9 @@
 </p>
 
 
-Welcome to the Code Agents HuggingFace Smolagents repository! This repository contains reviewed and personalized code examples inspired by the short course [Building Code Agents with Hugging Face smolagents](https://www.deeplearning.ai/short-courses/building-code-agents-with-hugging-face-smolagents/) offered on the [DeepLearning.AI](https://www.deeplearning.ai/courses/) platform:
+Welcome to the Code Agents HuggingFace Smolagents repository! This repository contains reviewed and personalized code examples inspired by the short course [Building Code Agents with Hugging Face smolagents](https://www.deeplearning.ai/short-courses/building-code-agents-with-hugging-face-smolagents/) offered on the [DeepLearning.AI](https://www.deeplearning.ai/courses/) platform,  focused on building code agents—large language model (LLM)-driven systems that generate and execute code to perform tasks. These agents offer a more streamlined and effective alternative to traditional tool-based systems. The examples emphasize secure implementation using Hugging Face’s smolagents framework, with particular attention to sandboxing techniques and safe code execution.  
 
-**Building Code Agents with Hugging Face smolagents**  
-This course introduces code agents—LLM-driven systems that write executable code to complete tasks—as a more efficient alternative to traditional tool-calling agents. Learners will build secure code agents using Hugging Face’s smolagents framework, exploring sandboxing and safe execution methods. The course covers how to design and evaluate both single and multi-agent systems for complex workflows like web browsing and data extraction. By the end, participants will understand when to use code agents, how to optimize their performance, and how to safely deploy them in production.
-
-The course content is organized into the following hands-on modules, included in the accompanying notebook:  
+The repository content is organized into the following hands-on modules, included in the accompanying notebook:  
  - _Introduction to Code Agents_ 🚀
  - _Secure Code Execution_ 🔐 
  - _Monitoring and Evaluating Your Agent_ 📊
