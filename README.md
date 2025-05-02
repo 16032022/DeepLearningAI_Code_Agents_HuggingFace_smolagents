@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="[https://github.com/16032022/DeepLearningAI_Code_Agents_HuggingFace_smolagents/blob/d1bb53b46289659a1794d14293c7f2129a3c11ea/Image2jpeg]" alt="Image2">
+  <img src="[https://github.com/16032022/DeepLearningAI_Code_Agents_HuggingFace_smolagents/blob/d1bb53b46289659a1794d14293c7f2129a3c11ea/Image2.jpeg]" alt="Image2">
 </p>
 
 
