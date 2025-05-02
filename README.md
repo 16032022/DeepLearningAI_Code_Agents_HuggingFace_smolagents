@@ -10,20 +10,20 @@ Welcome to the Code Agents HuggingFace Smolagents repository! This repository co
 This course introduces code agents—LLM-driven systems that write executable code to complete tasks—as a more efficient alternative to traditional tool-calling agents. Learners will build secure code agents using Hugging Face’s smolagents framework, exploring sandboxing and safe execution methods. The course covers how to design and evaluate both single and multi-agent systems for complex workflows like web browsing and data extraction. By the end, participants will understand when to use code agents, how to optimize their performance, and how to safely deploy them in production.
 
 The course content is organized into the following hands-on modules, included in the accompanying notebook:  
- - Introduction to Code Agents 🚀
- - Secure Code Execution 🔐 
- - Monitoring and Evaluating Your Agent 📊
- - Build a Deep-Research Agent 🧠
+ - _Introduction to Code Agents_ 🚀
+ - _Secure Code Execution_ 🔐 
+ - _Monitoring and Evaluating Your Agent_ 📊
+ - _Build a Deep-Research Agent_ 🧠
 
-❓ What's Inside  
+❓ **What's Inside**  
 Customized Code Examples: Original examples from the courses have been reviewed, refined, and personalized for improved clarity and usability.
 Ready-to-Run Notebooks: Test and modify pre-configured Jupyter notebooks.
 Additional Resources: Links to documentation, model hubs, and supplementary learning materials.
 
-🎯 Contributions  
+🎯 **Contributions**  
 Contributions are welcome! Feel free to submit pull requests to improve or extend the codebase.
 
-📄 License  
+📄 **License**  
 This repository is licensed under the MIT License.
 
 
