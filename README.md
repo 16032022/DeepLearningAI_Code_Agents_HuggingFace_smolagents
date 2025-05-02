@@ -4,6 +4,14 @@
 # ![image1](https://github.com/16032022/DeepLearningAI_Code_Agents_HuggingFace_smolagents/blob/0be092ba91337cbbc7b203a8f0a2279fc770cb9a/Image1.jpeg)
 # ![image2](https://github.com/16032022/DeepLearningAI_Code_Agents_HuggingFace_smolagents/blob/d1bb53b46289659a1794d14293c7f2129a3c11ea/Image2jpeg)
 
+
+
+<p align="center">
+  <img src="[https://github.com/16032022/DeepLearningAI_Code_Agents_HuggingFace_smolagents/blob/d1bb53b46289659a1794d14293c7f2129a3c11ea/Image2jpeg]" alt="Image2">
+</p>
+
+
+
 Welcome to the Code Agents HuggingFace Smolagents repository! This repository contains reviewed and personalized code examples inspired by the short course [Building Code Agents with Hugging Face smolagents](https://www.deeplearning.ai/short-courses/building-code-agents-with-hugging-face-smolagents/) offered on the [DeepLearning.AI](https://www.deeplearning.ai/courses/) platform:
 
 **Building Code Agents with Hugging Face smolagents**  
