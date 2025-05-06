@@ -20,7 +20,7 @@ Or, set `openai.api_key` to its value:
 
 ```python
 import openai
-openai.api_key = "sk-..."
+openai.api_key = "your-open-api-key"
 ```
 
 ## To set up an API key in an .env file, follow these steps:
