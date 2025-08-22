@@ -24,7 +24,7 @@ The repository content is organized into the following hands-on modules, include
 
 
 🎯 **Contributions**  
-Contributions are welcome! Feel free to submit pull requests to improve or extend the codebase.
+Contributions are welcome! Feel free to submit [pull requests](https://github.com/16032022/DeepLearningAI_Code_Agents_HuggingFace_smolagents/pulls) to improve or extend the codebase.
 
 
 📄 **License**  
