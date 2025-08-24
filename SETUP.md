@@ -16,7 +16,7 @@ To install the OpenAI Python library:
 pip install openai
 ```
 
-The openai library needs to be configured with your account's secret key, which is available on the website.
+The openai library needs to be configured with your account's secret key, which is available on [OpenAI](https://platform.openai.com/account/api-keys).
 
 You can either set it as the `OPENAI_API_KEY` environment variable before using the library:
 
@@ -67,6 +67,7 @@ TOGETHER_API_KEY= your_together_api_key
 TAVILY_API_KEY=your_tavily_api_key
 
 ```
+
 
 
 
