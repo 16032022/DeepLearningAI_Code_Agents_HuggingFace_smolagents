@@ -28,7 +28,7 @@ Contributions are welcome! Feel free to submit [pull requests](https://github.co
 
 
 📄 **License**  
-This repository is licensed under the MIT License.
+This repository is licensed under the [MIT License](https://github.com/16032022/DeepLearningAI_Code_Agents_HuggingFace_smolagents/blob/main/LICENSE).
 
 
 
