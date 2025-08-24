@@ -16,6 +16,11 @@ The repository content is organized into the following hands-on modules, include
  - _Monitoring and Evaluating Your Agent_ 📊
  - _Build a Deep-Research Agent_ 🧠
 
+- 🚀[**Introduction to Code Agents**](https://github.com/16032022/DeepLearningAI_Code_Agents_HuggingFace_smolagents/tree/main/Introduction_Code_Agents)
+- 🔐 [**Secure Code Execution**](https://github.com/16032022/DeepLearningAI_Code_Agents_HuggingFace_smolagents/tree/main/Secure_Code_Execution)   
+- 📊 [**Monitoring and Evaluating Your Agent**](https://github.com/16032022/DeepLearningAI_Code_Agents_HuggingFace_smolagents/tree/main/Monitoring_Evaluationg_Agent)
+- 🧠 [**Build a Deep-Research Agent**](https://github.com/16032022/DeepLearningAI_Code_Agents_HuggingFace_smolagents/tree/main/Build_Deep_Research_Agent)
+
 
 ❓ **What's Inside**  
 - _Customized Code Examples_: Original examples from the courses have been reviewed, refined, and personalized for improved clarity and usability.  
