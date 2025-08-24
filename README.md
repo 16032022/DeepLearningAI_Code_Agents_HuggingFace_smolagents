@@ -19,7 +19,7 @@ The repository's content is organized into the following hands-on modules, inclu
 
 ❓ **What's Inside**  
 - _Customized Code Examples_: Original examples from the courses have been reviewed, refined, and personalized for improved clarity and usability.  
-- _Ready-to-Run Notebooks_: A pre-configured Jupyter notebook is provided for easy testing and modification, allowing you to quickly experiment with HuggingFace’s features. For detailed setup instructions, please refer to the [Setup Instructions](SETUP.md) file.  
+- _Ready-to-Run Notebooks_: A pre-configured Jupyter notebook is provided for easy testing and modification, allowing you to quickly experiment with HuggingFace’s features. For detailed setup instructions, refer to the [Setup Instructions](SETUP.md) file.  
 - _Additional Resources_: Links to documentation, model hubs, and supplementary learning materials.  
 
 
