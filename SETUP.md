@@ -49,10 +49,11 @@ openai.api_key = "your-open-api-key"
 ### Example API keys in .env file:
 ```plaintext
 OPENAI_API_KEY=your_openai_api_key
-HF_API_KEY=your_langsmith_api_key
+HF_API_KEY=your_HuggingFace_api_key
 TOGETHER_API_KEY= your_together_api_key
 TAVILY_API_KEY=your_tavily_api_key
 
 ```
+
 
 
