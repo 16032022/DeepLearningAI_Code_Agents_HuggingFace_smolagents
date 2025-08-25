@@ -1,40 +1,37 @@
 # Setup Instructions
 
-## Installing Required Python Packages
-
-Install all dependencies using the provided requirements file:
+## Installing Required Python Packages  
+Install all dependencies using the provided [requirements.txt](https://github.com/16032022/DeepLearningAI_Code_Agents_HuggingFace_smolagents/blob/main/requirements.txt):
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## How to Get Your Own OpenAI API Key 
-
+## How to Get Your Own OpenAI API Key   
 To install the OpenAI Python library:
 
 ```bash
 pip install openai
 ```
 
-The openai library needs to be configured with your account's secret key, which is available on [OpenAI](https://platform.openai.com/account/api-keys).
+The openai library needs to be configured with your account's secret key, which is available on [OpenAI](https://platform.openai.com/account/api-keys). You can either:  
 
-You can either set it as the `OPENAI_API_KEY` environment variable before using the library:
+- set it as the `OPENAI_API_KEY` environment variable before using the library:
 
 ```bash
 export OPENAI_API_KEY='sk-...'
 ```
 
-Or, set `openai.api_key` to its value:
+- Or, set `openai.api_key` to its value:
 
 ```python
 import openai
 openai.api_key = "your-open-api-key"
 ```
 
-## To set up an API key in an .env file, follow these steps:
-
-1. **Create or Open the .env File**:
-   - If you don’t have a `.env` file in your project directory, create one. Ensure it is in the root folder of your project.
+## To set up an API key in an .env file  
+1. **Create an .env File**:
+   - Create an `.env` file in your project directory, ensuring  it is in the root folder of your project.
      
 2. **Add Your API Key to the .env File**:
    - Open the `.env` file and add your API key in the following format:
@@ -59,7 +56,7 @@ openai.api_key = "your-open-api-key"
      print(api_key)  # Test if it's loaded correctly
      ```  
 
-### Example API keys in .env file:
+### Example API keys in .env file:  
 ```plaintext
 OPENAI_API_KEY=your_openai_api_key
 HF_API_KEY=your_HuggingFace_api_key
@@ -67,6 +64,7 @@ TOGETHER_API_KEY= your_together_api_key
 TAVILY_API_KEY=your_tavily_api_key
 
 ```
+
 
 
 
